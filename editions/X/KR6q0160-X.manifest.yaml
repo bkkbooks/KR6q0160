@@ -1,0 +1,268 @@
+canonical_identifier: bkk:krp/KR6q0160/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0160/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十牛圖頌
+  identifiers:
+    krp: KR6q0160
+    cbeta: X64n1270
+    cbeta_old_id: X64n1270
+    authorityid: CA0003067
+    json_key: X1270
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1270.xml
+    old_id: X64n1270
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0160_000-X.yaml, hash: 'sha256:466efd84faf5e5023b0df3853609abfb21b829cb21c3f2830219af9d287386b3'}
+  - {seq: 1, filename: KR6q0160_001-X.yaml, hash: 'sha256:548224b1ad85f6c836feab061265dad797ede18a653b3eb3774114cdd60782cb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0160_000-X.markers.yaml, hash: 'sha256:4e042b465430d896ec36951706e02a207a85ea4bd9fc73de6cf20ad9cf7d7215'}
+  - {seq: 1, role: markers, filename: assets/KR6q0160_001-X.markers.yaml, hash: 'sha256:aed5eddf48a9a8381a77419e40eb4fd0638160ee76a3a75fc94eeba40a430817'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1470
+  label: 新刻禪宗十牛圖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-1
+    span:
+    - body
+    - 297
+    - 297
+  label: 頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-2
+    span:
+    - body
+    - 297
+    - 297
+  label: 普明詠未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-3
+    span:
+    - body
+    - 330
+    - 330
+  label: 雲菴和未牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-4
+    span:
+    - body
+    - 363
+    - 363
+  label: 普明詠初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-5
+    span:
+    - body
+    - 396
+    - 396
+  label: 雲菴和初調
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-6
+    span:
+    - body
+    - 429
+    - 429
+  label: 普明詠受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-7
+    span:
+    - body
+    - 462
+    - 462
+  label: 雲菴和受制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-8
+    span:
+    - body
+    - 495
+    - 495
+  label: 普明詠迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-9
+    span:
+    - body
+    - 528
+    - 528
+  label: 雲菴和迴首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-10
+    span:
+    - body
+    - 560
+    - 560
+  label: 普明詠馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-11
+    span:
+    - body
+    - 593
+    - 593
+  label: 雲菴和馴伏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-12
+    span:
+    - body
+    - 626
+    - 626
+  label: 普明詠無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-13
+    span:
+    - body
+    - 659
+    - 659
+  label: 雲菴和無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-14
+    span:
+    - body
+    - 692
+    - 692
+  label: 普明詠任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-15
+    span:
+    - body
+    - 725
+    - 725
+  label: 雲菴和任運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-16
+    span:
+    - body
+    - 758
+    - 758
+  label: 普明詠相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-17
+    span:
+    - body
+    - 791
+    - 791
+  label: 雲菴和相忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-18
+    span:
+    - body
+    - 824
+    - 824
+  label: 普明詠獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-19
+    span:
+    - body
+    - 857
+    - 857
+  label: 雲菴和獨照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-20
+    span:
+    - body
+    - 890
+    - 890
+  label: 普明詠雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-21
+    span:
+    - body
+    - 923
+    - 923
+  label: 雲菴和雙泯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-22
+    span:
+    - body
+    - 956
+    - 956
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0160_X_001-mulu-23
+    span:
+    - body
+    - 1408
+    - 1408
+  label: 總題
+  type: mulu
+  level: 1
+hash: sha256:a19bb8340a69df44ea8fc70451d7085b869d4f1a2b4ac99a984dd23fd5f6c560

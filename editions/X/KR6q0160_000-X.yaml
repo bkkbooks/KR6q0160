@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0160/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十牛圖頌
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1270.xml
+    old_id: X64n1270
+hash: sha256:466efd84faf5e5023b0df3853609abfb21b829cb21c3f2830219af9d287386b3
